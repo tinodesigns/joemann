@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.example"
         versionCode="10" 
-        version   = "1.0.1">
+        version   = "1.0.2">
 
     <!-- versionCode is optional and Android only -->
 
@@ -14,7 +14,7 @@
 		Technische Daten, aktueller Fahrzeugbestand, Wallpaper fürs Smartphone und vieles mehr rund um die beliebten Muscle Cars Ford Mustang, Chevrolet Camaro, Dodge Viper, Dodge Challenger, Dodge Charger, corvette und weitere.
     </description>
 
-    <author href="http://www.tino-designs..com" email="´tino@tino-designs.com">
+    <author href="http://www.tino-designs..com" email="tino@tino-designs.com">
         Tino Hartung
     </author>
     
