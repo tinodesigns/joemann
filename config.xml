@@ -3,18 +3,17 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.example"
         versionCode="10" 
-        version   = "1.0.2">
+        version   = "1.0.3">
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Joemann Motors | US Cars</name>
+    <name>Joemann Motors</name>
 
     <description>
-        US Cars und Fahrzeuge die direkt aus den USA importiert werden. 
-		Technische Daten, aktueller Fahrzeugbestand, Wallpaper fürs Smartphone und vieles mehr rund um die beliebten Muscle Cars Ford Mustang, Chevrolet Camaro, Dodge Viper, Dodge Challenger, Dodge Charger, corvette und weitere.
+        US Cars und Fahrzeuge die direkt aus den USA importiert werden. In unserem App finden Sie eine große Bildergalerie verschiedener Muscle Cars, die technische Daten, unseren aktuellen Fahrzeugbestand mit Bilder und Details der Fahrzeuge, und vieles mehr. Unsere Fahrzeuge sind sofort verfügbar. 
     </description>
 
-    <author href="http://www.tino-designs..com" email="tino@tino-designs.com">
+    <author href="http://www.tino-designs.com" email="tino@tino-designs.com">
         Tino Hartung
     </author>
     
